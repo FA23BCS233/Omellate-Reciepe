@@ -25,7 +25,7 @@ Welcome to your very own Simple Omelette Recipe Page—the ultimate guide to cre
 
 ### Links
 
-- Solution URL: [View the source code](https://your-solution-url.com)
+- Solution URL: [View the source code](https://github.com/FA23BCS233/Omellate-Reciepe)
 - Live Site URL: [Veiw Live Site](https://your-live-site-url.com)
 
 ## My process
